@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47911926081",
+    "project_id": "shopease-110de",
+    "storage_bucket": "shopease-110de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47911926081:android:b8cb1c4c9ab94e31fa09c0",
+        "android_client_info": {
+          "package_name": "com.tutedude.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Tir9Jbq8kviEWbtrcqP-4hFGcyhNbVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

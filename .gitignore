@@ -1,0 +1,15 @@
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+
+# Build artifacts & binaries
+*.class
+*.jar
+build/
+out/
+.gradle/
+*.apk
+*.mp4
+*.mkv
+*.mov
